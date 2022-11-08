@@ -6,6 +6,9 @@ const numeroPar = (numero % 2) === 0;
 console.log(numeroPar);
 
 if (numeroPar) {
-console.log("executei");
+console.log("Par");
 }
-
+if (!numeroPar) {
+    console.log("Ipar");
+    }
+    
