@@ -8,7 +8,7 @@ Você tera 3 variaveis. sendo elas:
 
 */
 const precoCombustivel = 5.79;
-const kmPorLitros = 1500;
+const kmPorLitros = 15;
 const distanciaEmKm = 102;
 
 const litrosConsumidos = distanciaEmKm / kmPorLitros;
