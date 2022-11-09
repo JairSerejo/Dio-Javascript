@@ -16,6 +16,8 @@ IMC Adulto e condições:
 const peso = 78
 const altura = 1.70
 const imc = peso / Math.pow(altura,2);
+console.log (imc);
+
 if (imc <18.5) {
     console.log ('abaixo do peso');
 } else if (imc >=18.5 && imc <=25) {
