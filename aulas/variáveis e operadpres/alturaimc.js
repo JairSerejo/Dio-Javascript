@@ -7,7 +7,7 @@ condição de acordo com a tabela abaixo.
 
 IMC Adulto e condições:
 - Abaixo de 18.5 - abaixo do peso;
-- Entre 18.5 e 25 - peso ideal;
+- De 18.5 até 25 - peso ideal;
 - Entre 25 à 30 - acima do peso;
 - Entre 30 e 40 - obeso;
 - Acima de 40 - obesidade grave;
